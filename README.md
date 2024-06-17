@@ -1,4 +1,4 @@
-## Bem Vindo Ao FelinosCat
+## Bem Vindos ao Heróis da FEB de Rio Negro e Região!
 
 Pagina desenvolvida para obtenção de conceito na disciplina de programação digital.
 
